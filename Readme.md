@@ -2,6 +2,14 @@
 See this ingame video of the Mod:
 [![Overview](figure1.jpg)](https://www.youtube.com/watch?v=Ypwd0P-O_1I "Mod Video")
 
+## Summary
+
+- Game: TES IV - Oblivion
+- Name of Mod: sinHHHans Distant Mod
+- Version: 1.4
+- Release-Date: January 2007
+- Author: sinHHHans
+
 ## Description
 
 This Mod calculates the distance over which you have striked down an enemy by bow. 
