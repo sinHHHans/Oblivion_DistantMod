@@ -11,7 +11,7 @@ There is also a highscore, that always keeps track of your best(=farthest) shot.
 A kill over 160.85 meters will give you a surprise ;-)
 
 ## Installation
-Unzip the .esp file to directory `\Oblivion\Data\`
+Place the .esp file to directory `\Oblivion\Data\`
 
 ## Uninstallation
 Delete the contained .esp file from `\Oblivion\Data\`
